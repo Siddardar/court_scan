@@ -1,0 +1,707 @@
+{
+    "Data": [{
+        "facilityName": "Admiralty Primary School Hall",
+        "facilityAddress": "11, Admiralty Primary School, Woodlands Circle, ",
+        "facilityID": "968"
+    }, {
+        "facilityName": "Ahmad Ibrahim Primary School Hall",
+        "facilityAddress": "10, Ahmad Ibrahim Primary School, Yishun Street 11, ",
+        "facilityID": "1013"
+    }, {
+        "facilityName": "Anchor Green Primary School Hall",
+        "facilityAddress": "31 Anchorvale Drive",
+        "facilityID": "551"
+    }, {
+        "facilityName": "Beacon Primary School Hall",
+        "facilityAddress": "36, Beacon Primary School, Bukit Panjang Ring Road, ",
+        "facilityID": "1006"
+    }, {
+        "facilityName": "Beatty Secondary School Hall",
+        "facilityAddress": "1 Toa Payoh North",
+        "facilityID": "420"
+    }, {
+        "facilityName": "Bedok Green Primary School Hall",
+        "facilityAddress": "1, Bedok Green Primary School, Bedok South Avenue 2, ",
+        "facilityID": "969"
+    }, {
+        "facilityName": "Bedok North Secondary School Hall",
+        "facilityAddress": "20 Jalan Damai",
+        "facilityID": "421"
+    }, {
+        "facilityName": "Bedok South Secondary School Hall",
+        "facilityAddress": "1 Jalan Langgar Bedok",
+        "facilityID": "323"
+    }, {
+        "facilityName": "Bedok Sport Hall",
+        "facilityAddress": "3 Bedok North Street 2",
+        "facilityID": "895"
+    }, {
+        "facilityName": "Bedok View Secondary School Hall",
+        "facilityAddress": "6 Bedok South Avenue 3, ",
+        "facilityID": "324"
+    }, {
+        "facilityName": "Bendemeer Secondary School Hall",
+        "facilityAddress": "1 St. Wilfred Road",
+        "facilityID": "554"
+    }, {
+        "facilityName": "Bishan Clubhouse",
+        "facilityAddress": "3, Mrt Sport & Recreation Club, Bishan Street 14, ",
+        "facilityID": "1171"
+    }, {
+        "facilityName": "Bishan Sport Centre",
+        "facilityAddress": "5 Bishan St 14",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Bishan Sports Hall",
+        "facilityAddress": "5 Bishan Street 14",
+        "facilityID": "292"
+    }, {
+        "facilityName": "Blangah Rise Primary School Hall",
+        "facilityAddress": "91, Blangah Rise Primary School, Telok Blangah Heights, ",
+        "facilityID": "871"
+    }, {
+        "facilityName": "Bukit Gombak Sport Centre",
+        "facilityAddress": "810 Bukit Gombak West Ave 5",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Bukit Gombak Sports Hall",
+        "facilityAddress": "810 Bukit Batok West Avenue 5",
+        "facilityID": "293"
+    }, {
+        "facilityName": "Bukit View Secondary School Hall",
+        "facilityAddress": "16 Bukit Batok Street 21",
+        "facilityID": "325"
+    }, {
+        "facilityName": "Cedar Primary School Hall",
+        "facilityAddress": "15, Cedar Primary School, Cedar Avenue, ",
+        "facilityID": "1034"
+    }, {
+        "facilityName": "Changkat Changi Secondary School Hall",
+        "facilityAddress": "23, Changkat Changi Secondary School, Simei Street 3, ",
+        "facilityID": "1038"
+    }, {
+        "facilityName": "Changkat Primary School Hall",
+        "facilityAddress": "11, Changkat Primary School, Simei Street 3, ",
+        "facilityID": "1041"
+    }, {
+        "facilityName": "Chij Katong Primary School Hall",
+        "facilityAddress": "17, Chij (Katong) Primary, Martia Road, ",
+        "facilityID": "971"
+    }, {
+        "facilityName": "Chij St. Joseph'S Convent School Hall",
+        "facilityAddress": "62, Chij St. Joseph Convent School, Sengkang East Way, ",
+        "facilityID": "864"
+    }, {
+        "facilityName": "Choa Chu Kang Sport Centre",
+        "facilityAddress": "1 Choa Chu Kang St 53",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Choa Chu Kang Sports Hall",
+        "facilityAddress": "1 Choa Chu Kang Street 53",
+        "facilityID": "295"
+    }, {
+        "facilityName": "Chongfu School Hall",
+        "facilityAddress": "170, Chongfu Primary School, Yishun Avenue 6, ",
+        "facilityID": "972"
+    }, {
+        "facilityName": "Christ Church Secondary School Hall",
+        "facilityAddress": "20, Christ Church Secondary School, Woodlands Drive 17, ",
+        "facilityID": "973"
+    }, {
+        "facilityName": "Chung Cheng High School Hall (Main)",
+        "facilityAddress": "50, Chung Cheng High School (Main), Goodman Road, ",
+        "facilityID": "974"
+    }, {
+        "facilityName": "Clementi Primary School Hall",
+        "facilityAddress": "8 Clementi Avenue 3",
+        "facilityID": "564"
+    }, {
+        "facilityName": "Clementi Sport Centre",
+        "facilityAddress": "518 Clementi Ave 3",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Clementi Sport Hall",
+        "facilityAddress": "518 Clementi Avenue 3",
+        "facilityID": "296"
+    }, {
+        "facilityName": "Clementi Town Secondary School Hall",
+        "facilityAddress": "10 Clementi Avenue 3",
+        "facilityID": "565"
+    }, {
+        "facilityName": "Commonwealth Secondary School Hall",
+        "facilityAddress": "698 West Coast Road",
+        "facilityID": "566"
+    }, {
+        "facilityName": "Compassvale Primary School Hall",
+        "facilityAddress": "21, Compassvale Primary School, Compassvale Street, ",
+        "facilityID": "976"
+    }, {
+        "facilityName": "Corporation Primary School Hall",
+        "facilityAddress": "31, Corporation Primary School, Jurong West Street 24, ",
+        "facilityID": "1014"
+    }, {
+        "facilityName": "Crescent Girls Secondary School Hall",
+        "facilityAddress": "357 Tanglin Road",
+        "facilityID": "555"
+    }, {
+        "facilityName": "Crest Secondary School Hall",
+        "facilityAddress": "561 Jurong East Street 24<Br />\nSingapore 609561",
+        "facilityID": "735"
+    }, {
+        "facilityName": "Dazhong Primary School Hall",
+        "facilityAddress": "35, Dazhong Primary School, Bukit Batok Street 31, ",
+        "facilityID": "977"
+    }, {
+        "facilityName": "Delta Sport Centre",
+        "facilityAddress": "900 Tiong Bahru Road",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Delta Sports Hall",
+        "facilityAddress": "900 Tiong Bahru Road",
+        "facilityID": "298"
+    }, {
+        "facilityName": "Deyi Secondary School Hall",
+        "facilityAddress": "1, Deyi Secondary School, Ang Mo Kio Street 42, ",
+        "facilityID": "1042"
+    }, {
+        "facilityName": "Dunearn Secondary School Hall",
+        "facilityAddress": "21, Dunearn Secondary School, Bukit Batok West Avenue 2, ",
+        "facilityID": "978"
+    }, {
+        "facilityName": "Dunman High School Hall",
+        "facilityAddress": "10 Tanjong Rhu Rd",
+        "facilityID": "825"
+    }, {
+        "facilityName": "Edgefield Primary School Hall",
+        "facilityAddress": "41, Edgefield Primary School, Edgefield Plains, ",
+        "facilityID": "927"
+    }, {
+        "facilityName": "Edgefield Primary School Hall",
+        "facilityAddress": "41, Edgefield Primary School, Edgefield Plains, ",
+        "facilityID": "927"
+    }, {
+        "facilityName": "Edgefield Secondary School Hall",
+        "facilityAddress": "36 Punggol Field",
+        "facilityID": "826"
+    }, {
+        "facilityName": "Elias Park Primary School Hall",
+        "facilityAddress": "11, Elias Park Primary School, Pasir Ris Street 52, ",
+        "facilityID": "1015"
+    }, {
+        "facilityName": "Evergreen Primary School Hall",
+        "facilityAddress": "31, Evergreen Primary School, Woodlands Circle, ",
+        "facilityID": "979"
+    }, {
+        "facilityName": "Fajar Secondary School Hall",
+        "facilityAddress": "31 Gangsa Road",
+        "facilityID": "953"
+    }, {
+        "facilityName": "Fengshan Primary School Hall",
+        "facilityAddress": "307, Fengshan Primary School, Bedok North Road, ",
+        "facilityID": "1017"
+    }, {
+        "facilityName": "Fern Green Primary School Hall",
+        "facilityAddress": "70, Fernvale Link, ",
+        "facilityID": "982"
+    }, {
+        "facilityName": "Fern Green Primary School Hall",
+        "facilityAddress": "70, Fernvale Link, ",
+        "facilityID": "982"
+    }, {
+        "facilityName": "First Toa Payoh Primary School Hall",
+        "facilityAddress": "7, First Toa Payoh Primary School, Lorong 8 Toa Payoh, ",
+        "facilityID": "916"
+    }, {
+        "facilityName": "Former Shuqun Secondary School Hall",
+        "facilityAddress": "450 Jurong East Street 21",
+        "facilityID": "451"
+    }, {
+        "facilityName": "Frontier Primary School Hall",
+        "facilityAddress": "20 Jurong West Street 61",
+        "facilityID": "567"
+    }, {
+        "facilityName": "Fuhua Secondary School Hall",
+        "facilityAddress": "5 Jurong West Street 41",
+        "facilityID": "424"
+    }, {
+        "facilityName": "Gan Eng Seng Secondary School Hall",
+        "facilityAddress": "1 Henderson Road",
+        "facilityID": "453"
+    }, {
+        "facilityName": "Gongshang Primary School Hall A (Level 3)",
+        "facilityAddress": "1, Gongshang Primary School, Tampines Street 42, ",
+        "facilityID": "330"
+    }, {
+        "facilityName": "Gongshang Primary School Hall A (Level 3)",
+        "facilityAddress": "1, Gongshang Primary School, Tampines Street 42, ",
+        "facilityID": "330"
+    }, {
+        "facilityName": "Gongshang Primary School Hall B (Level 1)",
+        "facilityAddress": "1, Gongshang Primary School, Tampines Street 42, ",
+        "facilityID": "423"
+    }, {
+        "facilityName": "Greendale Primary School Hall",
+        "facilityAddress": "50 Edgedale Plains",
+        "facilityID": "328"
+    }, {
+        "facilityName": "Greenridge Secondary School Hall",
+        "facilityAddress": "32 Bukit Panjang Ring Road",
+        "facilityID": "559"
+    }, {
+        "facilityName": "Heartbeat @ Bedok Activesg Sport Centre",
+        "facilityAddress": "11, Bedok North Street 1, ",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Heartbeat @ Bedok Activesg Sports Hall",
+        "facilityAddress": "11, Bedok North Street 1, ",
+        "facilityID": "895"
+    }, {
+        "facilityName": "Hougang Sport Centre",
+        "facilityAddress": "93 Hougang Ave 4",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Hougang Sports Hall",
+        "facilityAddress": "93 Hougang Avenue 4",
+        "facilityID": "301"
+    }, {
+        "facilityName": "Hua Yi Secondary School Hall",
+        "facilityAddress": "60 Jurong West Street 42",
+        "facilityID": "332"
+    }, {
+        "facilityName": "Innova Primary School Hall",
+        "facilityAddress": "80 Woodlands Drive 17",
+        "facilityID": "333"
+    }, {
+        "facilityName": "Jalan Besar Sport Centre",
+        "facilityAddress": "100 Tyrwhitt Road",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Jiemin Primary School Hall",
+        "facilityAddress": "2, Jiemin Primary School, Yishun Street 71, ",
+        "facilityID": "985"
+    }, {
+        "facilityName": "Junyuan Primary School Hall",
+        "facilityAddress": "2, Tampines Street 91",
+        "facilityID": "457"
+    }, {
+        "facilityName": "Jurong East Sport Centre",
+        "facilityAddress": "21 Jurong East St 31",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Jurong Primary School Hall",
+        "facilityAddress": "320, Jurong Primary School, Jurong East Street 32, ",
+        "facilityID": "1018"
+    }, {
+        "facilityName": "Jurong Secondary School Hall",
+        "facilityAddress": "31 Yuan Ching Road",
+        "facilityID": "455"
+    }, {
+        "facilityName": "Jurong West Primary School Hall",
+        "facilityAddress": "30, Jurong West Primary School, Jurong West Street 61, ",
+        "facilityID": "935"
+    }, {
+        "facilityName": "Jurong West Sport Centre",
+        "facilityAddress": "20 Jurong West St 93",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Jurong West Sport Hall",
+        "facilityAddress": "20 Jurong West Street 93",
+        "facilityID": "304"
+    }, {
+        "facilityName": "Jurongville Secondary School Hall",
+        "facilityAddress": "202 Jurong East Ave 1",
+        "facilityID": "828"
+    }, {
+        "facilityName": "Kallang Sport Centre",
+        "facilityAddress": "52 Stadium Road",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Keming Primary School Hall",
+        "facilityAddress": "90, Keming Primary School, Bukit Batok East Avenue 6, ",
+        "facilityID": "885"
+    }, {
+        "facilityName": "Keming Primary School Hall",
+        "facilityAddress": "90, Keming Primary School, Bukit Batok East Avenue 6, ",
+        "facilityID": "885"
+    }, {
+        "facilityName": "Kent Ridge Secondary School Hall",
+        "facilityAddress": "147 West Coast Road",
+        "facilityID": "452"
+    }, {
+        "facilityName": "Kranji Primary School Hall",
+        "facilityAddress": "11, Kranji Primary School, Choa Chu Kang Street 54, ",
+        "facilityID": "1019"
+    }, {
+        "facilityName": "Kranji Secondary School Hall",
+        "facilityAddress": "61, Kranji Secondary School, Choa Chu Kang Street 51, ",
+        "facilityID": "1054"
+    }, {
+        "facilityName": "Kranji Secondary School Hall",
+        "facilityAddress": "61, Kranji Secondary School, Choa Chu Kang Street 51, ",
+        "facilityID": "1054"
+    }, {
+        "facilityName": "Kuo Chuan Presbyterian Primary School Hall",
+        "facilityAddress": "8, Kuo Chuan Presbyterian Primary School, Bishan Street 13, ",
+        "facilityID": "987"
+    }, {
+        "facilityName": "Marsiling Primary School Hall",
+        "facilityAddress": "31, Marsiling Primary School, Woodlands Centre Road, ",
+        "facilityID": "989"
+    }, {
+        "facilityName": "Marsiling Primary School Hall",
+        "facilityAddress": "31, Marsiling Primary School, Woodlands Centre Road, ",
+        "facilityID": "989"
+    }, {
+        "facilityName": "Meridian Secondary School Hall",
+        "facilityAddress": "31 Pasir Ris Street 51",
+        "facilityID": "556"
+    }, {
+        "facilityName": "Moe Evans Sport Hall",
+        "facilityAddress": "21 Evans Road",
+        "facilityID": "318"
+    }, {
+        "facilityName": "Nan Chiau Primary School Hall",
+        "facilityAddress": "50, Nan Chiau Primary School, Anchorvale Link, ",
+        "facilityID": "1020"
+    }, {
+        "facilityName": "Nan Hua High School Hall",
+        "facilityAddress": "41 Clementi Avenue 1",
+        "facilityID": "426"
+    }, {
+        "facilityName": "Nanyang Primary School Hall",
+        "facilityAddress": "27, King'S Road, ",
+        "facilityID": "991"
+    }, {
+        "facilityName": "Nanyang Primary School Hall",
+        "facilityAddress": "27, King'S Road, ",
+        "facilityID": "991"
+    }, {
+        "facilityName": "Naval Base Secondary School Hall",
+        "facilityAddress": "901 Yishun Ring Road",
+        "facilityID": "446"
+    }, {
+        "facilityName": "Ngee Ann Secondary School Hall",
+        "facilityAddress": "1, Ngee Ann Secondary School, Tampines Street 32, ",
+        "facilityID": "993"
+    }, {
+        "facilityName": "Ngee Ann Secondary School Hall",
+        "facilityAddress": "1, Ngee Ann Secondary School, Tampines Street 32, ",
+        "facilityID": "993"
+    }, {
+        "facilityName": "North Spring Primary School Hall",
+        "facilityAddress": "1, North Spring Primary School, Rivervale Street, ",
+        "facilityID": "994"
+    }, {
+        "facilityName": "North Spring Primary School Hall",
+        "facilityAddress": "1, North Spring Primary School, Rivervale Street, ",
+        "facilityID": "994"
+    }, {
+        "facilityName": "North Vista Primary School Hall",
+        "facilityAddress": "20, North Vista Primary School, Compassvale Link, ",
+        "facilityID": "883"
+    }, {
+        "facilityName": "North Vista Secondary School Hall",
+        "facilityAddress": "11 Rivervale Link",
+        "facilityID": "830"
+    }, {
+        "facilityName": "Northland Secondary School Hall",
+        "facilityAddress": "3 Yishun Street 22",
+        "facilityID": "560"
+    }, {
+        "facilityName": "Nus University Town, Stephen Riady Centre, Hall 1",
+        "facilityAddress": "2, College Avenue West, ",
+        "facilityID": "959"
+    }, {
+        "facilityName": "Our Tampines Hub - Community Auditorium",
+        "facilityAddress": "1, Our Tampines Hub, Tampines Walk, ",
+        "facilityID": "850"
+    }, {
+        "facilityName": "Palm View Primary School Hall",
+        "facilityAddress": "150 Compassvale Bow",
+        "facilityID": "832"
+    }, {
+        "facilityName": "Park View Primary School Hall",
+        "facilityAddress": "60, Park View Primary School, Pasir Ris Drive 1, ",
+        "facilityID": "1021"
+    }, {
+        "facilityName": "Pasir Ris Crest Secondary School Hall",
+        "facilityAddress": "11 Pasir Ris Street 41",
+        "facilityID": "459"
+    }, {
+        "facilityName": "Pasir Ris Primary School Hall",
+        "facilityAddress": "5, Pasir Ris Primary School, Pasir Ris Street 21, ",
+        "facilityID": "1022"
+    }, {
+        "facilityName": "Pasir Ris Secondary School Hall",
+        "facilityAddress": "390 Tampines Street 21",
+        "facilityID": "338"
+    }, {
+        "facilityName": "Pasir Ris Sport Centre",
+        "facilityAddress": "120 Pasir Ris Central",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Pasir Ris Sports Hall",
+        "facilityAddress": "120 Pasir Ris Central",
+        "facilityID": "542"
+    }, {
+        "facilityName": "Pei Hwa Secondary School Hall",
+        "facilityAddress": "21, Pei Hwa Secondary School, Fernvale Link, ",
+        "facilityID": "1023"
+    }, {
+        "facilityName": "Peicai Secondary School Hall",
+        "facilityAddress": "10 Serangoon Avenue 4",
+        "facilityID": "447"
+    }, {
+        "facilityName": "Pierce Secondary School Hall",
+        "facilityAddress": "10 Sin Ming Walk",
+        "facilityID": "553"
+    }, {
+        "facilityName": "Pioneer Primary School Hall (Juying)",
+        "facilityAddress": "31, Pioneer Primary School (Juying), Jurong West Street 91, ",
+        "facilityID": "986"
+    }, {
+        "facilityName": "Pioneer Primary School Hall (Juying)",
+        "facilityAddress": "31, Pioneer Primary School (Juying), Jurong West Street 91, ",
+        "facilityID": "986"
+    }, {
+        "facilityName": "Poi Ching School Hall",
+        "facilityAddress": "21 Tampines Street 71",
+        "facilityID": "557"
+    }, {
+        "facilityName": "Punggol Cove Primary School Hall",
+        "facilityAddress": "52, Punggol Cove Primary School, Sumang Walk, ",
+        "facilityID": "995"
+    }, {
+        "facilityName": "Punggol Cove Primary School Hall",
+        "facilityAddress": "52, Punggol Cove Primary School, Sumang Walk, ",
+        "facilityID": "995"
+    }, {
+        "facilityName": "Punggol Green Primary School Hall",
+        "facilityAddress": "98, Punggol Green Primary School, Punggol Walk, ",
+        "facilityID": "996"
+    }, {
+        "facilityName": "Punggol Green Primary School Hall",
+        "facilityAddress": "98, Punggol Green Primary School, Punggol Walk, ",
+        "facilityID": "996"
+    }, {
+        "facilityName": "Punggol Secondary School Hall",
+        "facilityAddress": "51 Edgefield Plains",
+        "facilityID": "458"
+    }, {
+        "facilityName": "Qifa Primary School Hall",
+        "facilityAddress": "50, Qifa Primary School, West Coast Avenue, ",
+        "facilityID": "997"
+    }, {
+        "facilityName": "Qifa Primary School Hall",
+        "facilityAddress": "50, Qifa Primary School, West Coast Avenue, ",
+        "facilityID": "997"
+    }, {
+        "facilityName": "Queenstown Secondary School Hall",
+        "facilityAddress": "1 Strathmore Road",
+        "facilityID": "429"
+    }, {
+        "facilityName": "Queenstown Sport Centre",
+        "facilityAddress": "473 Stirling Road",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Queensway Secondary School Hall",
+        "facilityAddress": "2A      Margaret Drive",
+        "facilityID": "430"
+    }, {
+        "facilityName": "Radin Mas Primary School Hall",
+        "facilityAddress": "1 Bukit Purmei Avenue",
+        "facilityID": "834"
+    }, {
+        "facilityName": "Regent Secondary School Hall",
+        "facilityAddress": "50, Regent Secondary School, Choa Chu Kang North 5, ",
+        "facilityID": "998"
+    }, {
+        "facilityName": "Regent Secondary School Hall",
+        "facilityAddress": "50, Regent Secondary School, Choa Chu Kang North 5, ",
+        "facilityID": "998"
+    }, {
+        "facilityName": "Riverside Secondary School Hall",
+        "facilityAddress": "3 Woodlands Street 81",
+        "facilityID": "431"
+    }, {
+        "facilityName": "Rivervale Primary School Hall",
+        "facilityAddress": "80, Rivervale Primary School, Rivervale Drive, ",
+        "facilityID": "999"
+    }, {
+        "facilityName": "Rulang Primary School Hall",
+        "facilityAddress": "6, Rulang Primary School, Jurong West Street 52, ",
+        "facilityID": "1024"
+    }, {
+        "facilityName": "Sembawang Primary School Hall",
+        "facilityAddress": "10 Sembawang Drive",
+        "facilityID": "835"
+    }, {
+        "facilityName": "Sembawang Secondary School Hall",
+        "facilityAddress": "30 Sembawang Crescent",
+        "facilityID": "340"
+    }, {
+        "facilityName": "Seng Kang Primary School Hall",
+        "facilityAddress": "21, Seng Kang Primary School, Compassvale Walk, ",
+        "facilityID": "928"
+    }, {
+        "facilityName": "Seng Kang Primary School Hall",
+        "facilityAddress": "21, Seng Kang Primary School, Compassvale Walk, ",
+        "facilityID": "928"
+    }, {
+        "facilityName": "Sengkang Sport Centre",
+        "facilityAddress": "57 Anchorvale Rd ",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Sengkang Sports Hall",
+        "facilityAddress": "57 Anchorvale Road",
+        "facilityID": "308"
+    }, {
+        "facilityName": "Serangoon Garden Secondary School Hall",
+        "facilityAddress": "21 Serangoon North Avenue 1",
+        "facilityID": "449"
+    }, {
+        "facilityName": "Serangoon Sport Centre",
+        "facilityAddress": "35-A Yio Chu Kang Road",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Si Ling Primary School Hall",
+        "facilityAddress": "61, Si Ling Primary School, Woodlands Avenue 1, ",
+        "facilityID": "1025"
+    }, {
+        "facilityName": "Spectra School Hall",
+        "facilityAddress": "1 Woodlands Drive 64",
+        "facilityID": "599"
+    }, {
+        "facilityName": "St Gabriel'S Secondary School Hall",
+        "facilityAddress": "24 Serangoon Avenue 1",
+        "facilityID": "562"
+    }, {
+        "facilityName": "Stamford Primary School Hall",
+        "facilityAddress": "1, Stamford Primary School, Victoria Lane, ",
+        "facilityID": "1000"
+    }, {
+        "facilityName": "Tampines North Primary School Hall",
+        "facilityAddress": "30, Tampines North Primary School, Tampines Avenue 9, ",
+        "facilityID": "1026"
+    }, {
+        "facilityName": "Tampines Sport Centre",
+        "facilityAddress": "1, Our Tampines Hub, Tampines Walk, ",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Teck Ghee Primary School Hall",
+        "facilityAddress": "1, Ang Mo Kio Street 32, ",
+        "facilityID": "1027"
+    }, {
+        "facilityName": "Toa Payoh Sport Centre",
+        "facilityAddress": "297A Lor 6 Toa Payoh",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Toa Payoh Sports Hall",
+        "facilityAddress": "297 Lorong 6 Toa Payoh",
+        "facilityID": "311"
+    }, {
+        "facilityName": "Unity Primary School Hall",
+        "facilityAddress": "21 Choa Chu Kang Crescent",
+        "facilityID": "433"
+    }, {
+        "facilityName": "Unity Secondary School Hall",
+        "facilityAddress": "20 Choa Chu Kang Street 62",
+        "facilityID": "342"
+    }, {
+        "facilityName": "West View Primary School Hall",
+        "facilityAddress": "31, West View Primary School, Senja Road, ",
+        "facilityID": "1001"
+    }, {
+        "facilityName": "West View Primary School Hall",
+        "facilityAddress": "31, West View Primary School, Senja Road, ",
+        "facilityID": "1001"
+    }, {
+        "facilityName": "Westwood Primary School Hall",
+        "facilityAddress": "1, Westwood Primary School, Jurong West Street 73, ",
+        "facilityID": "941"
+    }, {
+        "facilityName": "Westwood Secondary School Hall",
+        "facilityAddress": "11, Westwood Secondary School, Jurong West Street 25, ",
+        "facilityID": "936"
+    }, {
+        "facilityName": "Westwood Secondary School Hall",
+        "facilityAddress": "11, Westwood Secondary School, Jurong West Street 25, ",
+        "facilityID": "936"
+    }, {
+        "facilityName": "White Sands Primary School Hall",
+        "facilityAddress": "2, White Sands Primary School, Pasir Ris Street 11, ",
+        "facilityID": "1029"
+    }, {
+        "facilityName": "Woodgrove Primary School Hall",
+        "facilityAddress": "2, Woodgrove Primary School, Woodlands Drive 14, ",
+        "facilityID": "1030"
+    }, {
+        "facilityName": "Woodgrove Secondary School Hall",
+        "facilityAddress": "3, Woodgrove Secondary School, Woodlands Avenue 6, ",
+        "facilityID": "1002"
+    }, {
+        "facilityName": "Woodlands Secondary School Hall",
+        "facilityAddress": "11 Marsiling Road",
+        "facilityID": "561"
+    }, {
+        "facilityName": "Woodlands Sport Centre",
+        "facilityAddress": "2, Woodlands Street 13, ",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Woodlands Sports Hall",
+        "facilityAddress": "2 Woodlands St 12 ",
+        "facilityID": "312"
+    }, {
+        "facilityName": "Xing Hua Primary School",
+        "facilityAddress": "45 Hougang Avenue 1",
+        "facilityID": "569"
+    }, {
+        "facilityName": "Xishan Primary School Hall",
+        "facilityAddress": "8, Xishan Primary School, Yishun Street 21, ",
+        "facilityID": "926"
+    }, {
+        "facilityName": "Yew Tee Primary School Hall",
+        "facilityAddress": "10, Yew Tee Primary School, Choa Chu Kang Street 64, ",
+        "facilityID": "1031"
+    }, {
+        "facilityName": "Yio Chu Kang Secondary School Hall",
+        "facilityAddress": "3063 Ang Mo Kio Avenue 5",
+        "facilityID": "450"
+    }, {
+        "facilityName": "Yio Chu Kang Sport Centre",
+        "facilityAddress": "200, Ang Mo Kio Avenue 9, ",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Yio Chu Kang Sports Hall",
+        "facilityAddress": "200 Ang Mo Kio Avenue 9",
+        "facilityID": "314"
+    }, {
+        "facilityName": "Yishun Secondary School Hall",
+        "facilityAddress": "4 Yishun Street 71",
+        "facilityID": "434"
+    }, {
+        "facilityName": "Yishun Sport Centre",
+        "facilityAddress": "101 Yishun Ave 1",
+        "facilityID": "Error"
+    }, {
+        "facilityName": "Yishun Sports Hall",
+        "facilityAddress": "101 Yishun Avenue 1",
+        "facilityID": "316"
+    }, {
+        "facilityName": "Yishun Town Secondary School Hall",
+        "facilityAddress": "6 Yishun Street 21",
+        "facilityID": "344"
+    }, {
+        "facilityName": "Yuan Ching Secondary School Hall",
+        "facilityAddress": "103 Yuan Ching Road",
+        "facilityID": "456"
+    }, {
+        "facilityName": "Yuhua Secondary School Hall",
+        "facilityAddress": "35, Yuhua Secondary School, Jurong West Street 41, ",
+        "facilityID": "1033"
+    }, {
+        "facilityName": "Zhonghua Primary School Hall",
+        "facilityAddress": "12 Serangoon Avenue 4",
+        "facilityID": "448"
+    }]
+}
